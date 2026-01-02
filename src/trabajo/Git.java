@@ -7,7 +7,7 @@ public class Git {
 	        int N = 0;
 	        int i = 0;
 
-	        System.out.print("Escribe un número como entrada y te daré como resultado su número primo en exceso: ");
+	        System.out.print("Escribeeeeeeeeeeeeeeeeeeeeee un número como entrada y te daré como resultado su número primo en exceso: ");
 	        N = teclado.nextInt();
 
 	        i = N + 1;
